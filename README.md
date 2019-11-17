@@ -9,7 +9,7 @@ To Run
 How to play
 
 * After launching the game, you get this image and a prompt
-
+```
 -------Begin Game------
 " -  -  -  -  -  -  - "
 " -  -  -  -  -  -  - "
@@ -18,7 +18,7 @@ How to play
 " -  -  -  -  -  -  - "
 " -  -  -  -  -  -  - "
 -----------------------
-"Enter Column: Player 1"
+"Enter Column: Player 1"```
 -- Inputs here are [1..7] 
 
 For Example: After entering 1, we see X has been placed in column 1 and a prompt for player 2 is invoked
