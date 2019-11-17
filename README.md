@@ -18,7 +18,8 @@ How to play
 " -  -  -  -  -  -  - "
 " -  -  -  -  -  -  - "
 -----------------------
-"Enter Column: Player 1"```
+"Enter Column: Player 1"
+```
 
 -- Inputs here are [1..7] 
 
